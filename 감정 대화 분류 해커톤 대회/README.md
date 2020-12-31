@@ -7,7 +7,7 @@
 
 <center><img src="https://user-images.githubusercontent.com/56110972/103417090-a777f400-4bcc-11eb-89e4-41bf61bf7e62.PNG" width="700"></center>
 
----------------------------------------
+---------------------------------------    
 
 
 모델별 성능 비교
@@ -15,7 +15,7 @@
 
 <center><img src="https://user-images.githubusercontent.com/56110972/103417146-daba8300-4bcc-11eb-9c14-4fa61e968dae.PNG" width="700"></center>
 
----------------------------------------
+---------------------------------------    
 
 
 의의 및 앞으로 해야할 것
