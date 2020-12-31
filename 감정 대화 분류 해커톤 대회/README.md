@@ -3,8 +3,8 @@
 <p> 
   
 > - 서로 주고받는 Multi-turn 형식의 대화문
-> - 주고받는 대화문 묶음 마다 라벨이 하나씩 존재 
-> - 분석에 용이하도록 하나로 합침
+> - 주고받는 대화문 전체에 라벨이 하나씩 존재 
+> - 분석에 용이하도록 이들을 하나로 합침
 
   <center><img src="https://user-images.githubusercontent.com/56110972/103416972-33d5e700-4bcc-11eb-8ca1-d8c0d4a07281.PNG" width="700"></center>
  
